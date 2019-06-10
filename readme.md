@@ -73,3 +73,10 @@ To run the project:
 2. Run the server, launch the browser, and transpile the ES6 to ES5 using Babel
     npm start
 
+## I have skipped Project 4 & 5 as they were just for getting heated up, but  there is no  need of panic soon we will cover all these portion in upcoming project.
+
+## Project 6
+
+The Angular Forms project shows how to get started with data binding in forms using ngModel (template-driven approach) or the Reactive forms approach where form controls are defined in code and bound into the UI. Examples of custom validators are also included as well as examples of binding to different types of form controls and accessing submitted data.
+
+
