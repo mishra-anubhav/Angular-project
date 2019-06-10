@@ -1,7 +1,7 @@
 import { Component, Output, EventEmitter, forwardRef, OnChanges } from "@angular/core";
 import { NgControl, ControlValueAccessor, NG_VALUE_ACCESSOR, NG_VALIDATORS, FormControl, Validators } from "@angular/forms";
-import { AbstractControl } from "@angular/forms/src/model";
-import { ValidationErrors } from "@angular/forms/src/directives/validators";
+import { AbstractControl } from "@angular/forms";
+import { ValidationErrors } from "@angular/forms";
 
 @Component({ 
     selector: 'phone-textbox', 
