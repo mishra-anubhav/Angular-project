@@ -80,3 +80,20 @@ To run the project:
 The Angular Forms project shows how to get started with data binding in forms using ngModel (template-driven approach) or the Reactive forms approach where form controls are defined in code and bound into the UI. Examples of custom validators are also included as well as examples of binding to different types of form controls and accessing submitted data.
 
 
+## Project 7
+
+The Angular JumpStart project provides a complete application that demonstrates many key features provided by the Angular framework. Some of the project features include:
+TypeScript classes and modules
+Modules are loaded with System.js
+Defining routes including child routes and lazy loaded routes
+Using Custom Components including custom input and output properties
+Using Custom Directives
+Using Custom Pipes
+Defining Properties and Using Events in Components/Directives
+Using the Http object for Ajax calls along with RxJS observables
+Working with Utility and Service classes (such as for sorting and Ajax calls)
+Using Angular databinding Syntax [], () and [()]
+Using template-driven and reactive forms functionality for capturing and validating data
+Optional: Webpack functionality is available for module loading and more (see the readme for details)
+Optional: Ahead-Of-Time (AOT) support is available (see the readme for details)
+Much more!
